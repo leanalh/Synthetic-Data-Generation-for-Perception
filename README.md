@@ -30,7 +30,7 @@ For theoretical explanation and further details, see the official material:
 [https://learn.nvidia.com/courses/course?course_id=course-v1:DLI+S-OV-30+V1](https://learn.nvidia.com/courses/course?course_id=course-v1:DLI+S-OV-30+V1)
 
 Generated data samples
-https://github.com/leanalh/Synthetic-Data-Generation-for-Perception/blob/main/data_samples/generated_output.png
+![Generated images](data_samples/generated_output.png)
 
 ### About
 
