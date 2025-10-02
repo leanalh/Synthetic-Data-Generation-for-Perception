@@ -29,16 +29,8 @@ I changed only the asset paths and output directories to match my personal setup
 For theoretical explanation and further details, see the official material:  
 [https://learn.nvidia.com/courses/course?course_id=course-v1:DLI+S-OV-30+V1](https://learn.nvidia.com/courses/course?course_id=course-v1:DLI+S-OV-30+V1)
 
-### Example Outputs
-
-A typical set includes:
-
-
 
 ### About
 
 **Synthetic warehouse scenes with multi-modal annotation, built for the curious, the cautious, and anyone tired of hand-labeling training images.**  
 
-***
-
-You should update image sample paths and usage instructions to match your final structure.
