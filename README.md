@@ -34,3 +34,4 @@ For theoretical explanation and further details, see the official material:
 
 **Synthetic warehouse scenes with multi-modal annotation, built for the curious, the cautious, and anyone tired of hand-labeling training images.**  
 
+![Generated Annotations](data_samples/generated_annotations.png)
