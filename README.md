@@ -33,11 +33,6 @@ For theoretical explanation and further details, see the official material:
 
 A typical set includes:
 
-| RGB | Semantic Segmentation | Depth |
-|---|---|---|
-| ![rgb sample](data_samples/rgb_example.pngdata_samples/semantic_exampledata_samples/depth_example’ll find the data separated into folders for different distractor/randomization scenarios. Overlays, not shown here, make it much easier to spot bugs in annotation and are great for quick dataset review.*
-
-***
 
 
 ### About
